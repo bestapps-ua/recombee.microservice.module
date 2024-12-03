@@ -11,6 +11,6 @@ git commit -m "$VERSION" package.json package-lock.json dist/ src/ push.sh;
 git push origin master;
 git tag $VERSION;
 git push origin $VERSION;
-npm publish
+npm publish --public
 
 
