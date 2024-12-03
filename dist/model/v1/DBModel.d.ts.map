@@ -1,0 +1,1 @@
+{"version":3,"file":"DBModel.d.ts","sourceRoot":"","sources":["../../../src/model/v1/DBModel.ts"],"names":[],"mappings":"AAAA,OAAO,WAAW,MAAM,eAAe,CAAC;AACxC,OAAO,mBAAmB,MAAM,qCAAqC,CAAC;AAItE,cAAM,OAAQ,SAAQ,WAAW;gBACjB,KAAK,GAAE,mBAA4D;IAIzE,KAAK,IAAI,OAAO,CAAC,GAAG,CAAC;CAG9B;AAED,eAAe,OAAO,CAAC"}

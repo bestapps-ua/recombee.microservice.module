@@ -1,0 +1,1 @@
+{"version":3,"file":"IEntityModelOptions.d.ts","sourceRoot":"","sources":["../../src/interface/IEntityModelOptions.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,4BAA4B,CAAC;AACnD,OAAO,cAAc,MAAM,gCAAgC,CAAC;AAE5D,MAAM,CAAC,OAAO,WAAW,mBAAmB;IACxC,MAAM,EAAE,SAAS,GAAC,GAAG,CAAC;IACtB,KAAK,EAAE,cAAc,GAAC,GAAG,CAAC;CAC7B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ISearch.d.ts","sourceRoot":"","sources":["../../src/interface/ISearch.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,uBAAuB,EAAC,MAAM,cAAc,CAAC;AAErD,UAAU,cAAc;IACpB,MAAM,EAAE,MAAM,CAAC;IACf,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,EAAE,uBAAuB,CAAC;CACpC;AAED,OAAO,EACH,cAAc,GACjB,CAAC"}
