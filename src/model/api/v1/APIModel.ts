@@ -17,7 +17,7 @@ class APIModel {
             if(!res['ok']) {
                 throw res;
             }
-            if(res && res.data) {
+            if(res && res.data && typeof res.data === 'object') {
                 res.data._system = {
                     ttl: Math.round(Date.now() - t) / 1000,
                 };
