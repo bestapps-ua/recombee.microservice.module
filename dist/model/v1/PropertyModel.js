@@ -22,5 +22,5 @@ class PropertyModel {
         };
     }
 }
-exports.default = new PropertyModel();
+exports.default = PropertyModel;
 //# sourceMappingURL=PropertyModel.js.map

@@ -22,4 +22,4 @@ class PropertyModel {
     }
 }
 
-export default new PropertyModel();
+export default PropertyModel;

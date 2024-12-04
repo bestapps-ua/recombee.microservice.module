@@ -10,6 +10,5 @@ declare class PropertyModel {
         TYPE_IMAGE_LIST: string;
     };
 }
-declare const _default: PropertyModel;
-export default _default;
+export default PropertyModel;
 //# sourceMappingURL=PropertyModel.d.ts.map
