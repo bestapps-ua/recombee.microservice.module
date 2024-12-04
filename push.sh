@@ -7,6 +7,7 @@ VERSION=$(cat package.json \
   | sed 's/[",]//g')
 
 npm run build
+git add dist/*
 git commit -m "$VERSION" package.json package-lock.json dist/ src/ push.sh;
 git push origin master;
 git tag $VERSION;
