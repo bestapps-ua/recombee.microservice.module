@@ -24,7 +24,7 @@ class APIModel {
             }
             return res;
         } catch (err) {
-            console.log('err call', {err, action, params});
+            console.log('[err call]', {err, action, params});
             throw err;
         }
     }
