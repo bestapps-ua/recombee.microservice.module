@@ -5,7 +5,7 @@ interface IItemPropertyRequest {
 
 interface IItemRequest {
     uid: string;
-    values?: {[key: string]: any}[];
+    values?: {[key: string]: any};
 }
 
 export {

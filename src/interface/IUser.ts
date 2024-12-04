@@ -5,7 +5,7 @@ interface IUserPropertyRequest {
 
 interface IUserRequest {
     uid: string;
-    values?: {[key: string]: any}[];
+    values?: {[key: string]: any};
 }
 
 export {
