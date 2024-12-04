@@ -20,4 +20,7 @@ __exportStar(require("./RecommendModel"), exports);
 __exportStar(require("./SearchModel"), exports);
 __exportStar(require("./SegmentationModel"), exports);
 __exportStar(require("./UserModel"), exports);
+__exportStar(require("./PropertyModel"), exports);
+__exportStar(require("./DBModel"), exports);
+__exportStar(require("./InteractionModel"), exports);
 //# sourceMappingURL=index.js.map

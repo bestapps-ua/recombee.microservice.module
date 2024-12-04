@@ -6,7 +6,7 @@ VERSION=$(cat package.json \
   | awk -F: '{ print $2 }' \
   | sed 's/[",]//g')
 
-
+npm run build
 git commit -m "$VERSION" package.json package-lock.json dist/ src/ push.sh;
 git push origin master;
 git tag $VERSION;
